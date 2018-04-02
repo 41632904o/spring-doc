@@ -1,6 +1,5 @@
 package com.testcase.mocktest;
 
-import org.junit.Assert;
 
 import junit.framework.TestCase;
 
